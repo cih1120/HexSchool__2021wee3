@@ -22,7 +22,7 @@
     flex-direction: column;
   }
   &__logo {
-    background-image: url(/assets/images/logo.png);
+    background-image: url(../images/logo.png);
     @include size(80px, 49px);
     text-indent: 101%;
     white-space: nowrap;
